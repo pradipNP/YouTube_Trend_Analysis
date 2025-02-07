@@ -40,4 +40,5 @@ Feel free to submit issues or pull requests to improve the project.
 This project is licensed under the MIT License.
 
 ## 🔗 Connect
-- **GitHub Repository**: [Your GitHub Repo Link]
+- **GitHub Repository**:
+    https://github.com/pradipNP/YouTube_Trend_Analysis
